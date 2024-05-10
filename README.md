@@ -1,4 +1,4 @@
-# Legal GPT - Legal Research Assistant
+# Legal GPT - Dutch Legal Research Assistant
 
 ## Description
 
